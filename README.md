@@ -45,4 +45,3 @@ I combine traditional financial expertise with a growing proficiency in **data a
 
 I'm actively seeking opportunities as a **Junior Auditor** in firms where data analytics and AI are transforming the audit process. If you're working at the intersection of finance and technology, let's talk!
 
-
