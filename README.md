@@ -2,7 +2,7 @@
 
 **Junior Auditor | Banking & Finance Student | Data & AI Enthusiast**
 
-📧 [Email](mailto:cristianoguidarelli@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/cristiano-guidarelli/)
+📧 [Email](mailto:cristianoguidarelli@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/cristiano-guidarelli-39a284390)
 
 ---
 
@@ -44,4 +44,3 @@ I combine traditional financial expertise with a growing proficiency in **data a
 ## 📫 Let's Connect
 
 I'm actively seeking opportunities as a **Junior Auditor** in firms where data analytics and AI are transforming the audit process. If you're working at the intersection of finance and technology, let's talk!
-
