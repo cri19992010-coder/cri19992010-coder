@@ -1,199 +1,48 @@
-# Cristiano Guidarelli 👋
+# Hi, I'm Cristiano 👋
 
-## Junior Finance & Data Analyst | Banking & Finance
+**Junior Auditor | Banking & Finance Student | Data & AI Enthusiast**
 
-📍 Rome, Italy
-📧 [cristianoguidarelli@gmail.com](mailto:cristianoguidarelli@gmail.com)
-💼 LinkedIn: www.linkedin.com/in/
-cristiano-guidarelli-39a284390
-
+📧 [Email](mailto:cristianoguidarelli@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/cristiano-guidarelli/)
 
 ---
 
-# About Me
+## 🎯 About Me
 
-I’m a Master’s student in Banking & Finance with a strong interest in:
+After earning my Bachelor's degree in **Business Administration** at Sapienza Università di Roma, I'm now pursuing a Master's in **Banking & Finance** at Università San Raffaele, with a clear goal: building a career in **audit and financial consulting**.
 
-* Financial Analysis
-* Audit & Consulting
-* Data Analytics
-* AI Applications for Business
-* Business Intelligence
-
-My background combines academic finance knowledge with practical experience in operations, organization, and analytical problem solving.
-
-I’m currently focused on building data-driven projects using Python, SQL, and modern analytics tools to bridge finance and technology.
+I combine traditional financial expertise with a growing proficiency in **data analysis and AI tools**, bridging the gap between classic auditing methods and modern, data-driven approaches.
 
 ---
 
-# Technical Toolkit
+## 🧰 Technical Toolkit
 
-## Finance & Business
-
-* Financial Analysis
-* Audit Fundamentals
-* Business Administration
-* KPI Monitoring
-* Data Interpretation
-
-## Data & Analytics
-
-* Python
-* Pandas
-* NumPy
-* SQL
-* Excel
-* Data Visualization
-* Data Cleaning
-
-## Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* PowerPoint
+- **Core Tech:** Python (Pandas, NumPy), SQL, Advanced Excel
+- **AI & Automation:** LLM Integration (Claude, Prompt Engineering), AI-assisted analysis
+- **Methodology:** Data cleaning & manipulation, financial data visualization, quantitative analysis
+- **Tools:** Git, GitHub, Microsoft Office Suite
 
 ---
 
-# Current Focus
+## 🚀 Projects
 
-* Banking & Finance
-* Data Analytics for Business
-* Financial Data Analysis
-* AI & Automation
-* Business Intelligence
-
----
-
-# Featured Projects
-
-## 🍕 PizzIndex
-
-A data-driven project focused on pizza market analysis, indexing, and business insights.
-
-### Tech Stack
-
-* Python
-* Pandas
-* Data Visualization
-* SQL
-
-### Key Features
-
-* Data collection and cleaning
-* Market trend analysis
-* Interactive business insights
-* KPI generation
+| Project | Description |
+|---------|-------------|
+| [🍷 Davide Sommelier](https://github.com/cri19992010-coder/davide-sommelier) | Web app con agente AI che analizza foto di bottiglie di vino e restituisce una scheda dettagliata come un sommelier professionista — built with Next.js, Supabase, Vercel & Claude API |
+| [🍕 PizzIndex](https://github.com/peppedgv/PizzIndex) | Progetto di data analysis sull'andamento dei prezzi della pizza in Italia come indicatore economico |
+| [⚽ PlayerSearch](https://github.com/cri19992010-coder) | Query SQL per la ricerca e il filtraggio di giocatori sportivi all'interno di un database relazionale |
 
 ---
 
-## 🍷 WineBro
+## 📚 Current Focus
 
-Wine recommendation and analysis project designed to organize and analyze wine-related datasets.
-
-### Tech Stack
-
-* Python
-* Pandas
-* NumPy
-* Data Analysis
-
-### Key Features
-
-* Wine dataset management
-* Recommendation logic
-* Data filtering and categorization
-* Analytical reporting
+- 🎓 Completing a **Master's in Banking & Finance** — curriculum focused on financial regulation, risk management, and audit
+- 📊 Attending a **Data & AI Analyst** intensive program at Develhope — building hands-on skills in Python, SQL, and Machine Learning
+- 🌍 Preparing for an **EF Business English** intensive course in Dublin (June 2026)
 
 ---
 
-## ⚽ SearchPlayer
+## 📫 Let's Connect
 
-Player search and analytics platform focused on sports data exploration.
-
-### Tech Stack
-
-* Python
-* SQL
-* Data Processing
-* API Integration
-
-### Key Features
-
-* Player search engine
-* Statistical analysis
-* Data filtering
-* Structured player database
-
----
-
-# GitHub Stats
-
-```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-```
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-```
-
----
-
-# Technologies
-
-```md
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-```
-
----
-
-# Goals for 2026
-
-* Build advanced finance/data projects
-* Improve SQL and Python skills
-* Learn Power BI
-* Develop AI-powered business applications
-* Start a career in Audit, Consulting, or Financial Analytics
-
----
-
-# Repository Structure Recommendation
-
-## Main Repositories
-
-| Repository         | Focus                 |
-| ------------------ | --------------------- |
-| PizzIndex          | Data Analysis         |
-| WineBro            | Recommendation System |
-| SearchPlayer       | Sports Analytics      |
-| finance-dashboard  | Finance Analytics     |
-| sql-business-case  | SQL Projects          |
-| excel-kpi-analysis | Business Intelligence |
-
----
-
-# Suggested GitHub Bio
-
-```md
-Junior Finance & Data Analyst | Python & SQL | Banking & Finance | Building data-driven business projects
-```
-
----
-
-# Suggested Pinned Repositories
-
-1. PizzIndex
-2. WineBro
-3. SearchPlayer
-4. finance-dashboard
-5. sql-business-case
-6. excel-kpi-analysis
+I'm actively seeking opportunities as a **Junior Auditor** in firms where data analytics and AI are transforming the audit process. If you're working at the intersection of finance and technology, let's talk!
 
 
